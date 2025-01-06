@@ -26,10 +26,14 @@ x {
 }
 
 body {
-    background-color: #AFD955; /* Cor sólida, sem degradê */
+    background-color: #AFD955; /* Cor sólida para o fundo */
     margin: 0; /* Garantir que o body ocupe toda a tela */
     padding: 0;
-    height: 100vh; /* Garante que o fundo cubra toda a altura da tela */
+    min-height: 100vh; /* Garante que o body tenha altura mínima de 100% da tela */
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: flex-start; /* Alinha o conteúdo no topo */
+    flex-direction: column; /* Permite que o conteúdo fique em coluna */
 }
 
 main {
