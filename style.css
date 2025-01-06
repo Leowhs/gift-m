@@ -42,7 +42,7 @@ main {
     box-shadow: 10px 10px 10px #799c6b;
     width: 100%;  /* Ajuste para responsividade */
     max-width: 600px; /* Limita a largura máxima */
-    padding: 40px;
+    padding: 25px;
     margin: 20px auto; /* Margens automáticas para centralizar */
     margin-top: 20px; /* Margem superior */
 }
