@@ -8,7 +8,7 @@
 h1 {
     font-family: 'kberry';
     color: #40730E;
-    font-size: 90em;
+    font-size: 3em;
     text-align: center;
 }
 
@@ -42,8 +42,8 @@ main {
     box-shadow: 10px 10px 10px #799c6b;
     width: 100%;  /* Ajuste para responsividade */
     max-width: 600px; /* Limita a largura máxima */
-    margin: 50px auto; /* Margens automáticas para centralizar */
-    padding: 30px;
+    padding: 10px;
+    margin: 200px auto; /* Margens automáticas para centralizar */
     margin-top: 20px; /* Margem superior */
 }
 
